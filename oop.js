@@ -12,3 +12,5 @@ class R extends Rectangle{
 }
 
 // console.log
+
+console.log();
