@@ -10,3 +10,5 @@ class R extends Rectangle{
         super(w,h)
     }
 }
+
+// console.log
