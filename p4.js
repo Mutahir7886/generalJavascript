@@ -15,3 +15,6 @@ for (let i=0; i<num.length; i++){
 console.log('Sorted Array is:', num);
 }
 sortedArray([8, 2, 6, 9, 1, 0, 12, -1]);
+
+console.log('Sorted Array is:', num);
+
