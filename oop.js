@@ -21,3 +21,4 @@ class R extends Rectangle{
 
 console.log();
 console.log(123);
+console.log(456);
